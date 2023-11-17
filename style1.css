@@ -1,0 +1,71 @@
+.bg-img{
+    width: 100%;
+    height: 1000px;
+    background-image:url(F-LcbhgboAA4Alw.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-center .h1{
+    display: flex;
+    flex-direction: column;
+    color: rgb(246, 252, 252);
+    font-size: 79px;
+    font-style: oblique;
+    margin-top: 300px;
+}
+
+.text-center p{
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 38, 0);
+    align-items: center;
+    font-size: 53px;
+    font-style: oblique;
+}
+
+.section{
+    background-color: rgb(245, 93, 6)
+}
+.section .kelas{
+    width: 100%;
+    display: flex;
+}
+.section img{
+    width: 300px;
+    height: normal;
+    
+}
+section .container h1{
+    color: black;
+    font-size: 42px;
+    font-style: inherit;
+    font-weight: 900;
+    line-height: normal;
+}
+section .container h4{
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 300;
+    line-height: normal;
+}
+section .container .row{
+    margin-top: 102px;
+    gap: 17px;
+    justify-content: center;
+}
+section .container .row .col-md-3{
+    align-items: center;
+    padding: 0px;
+    width: 267px;
+    height: 497px;
+}
+section .container .row .col-md-3 h2{
+    padding-top: 30px;
+    text-align: center;
+}
+section .container .row .col-md-3 p{
+    padding-top: 8px;
+    text-align: center;
+}
